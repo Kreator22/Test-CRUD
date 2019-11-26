@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactImport", "ReactImport.csproj", "{29457DDA-000A-416E-9903-1D75D1776FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\Repository\Repository.csproj", "{5687D278-5C00-43E1-A75D-D81DBAEFBDBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models2", "..\Models2\Models2.csproj", "{3FF4441C-AE24-4745-A91E-BEA3FA3723CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29457DDA-000A-416E-9903-1D75D1776FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29457DDA-000A-416E-9903-1D75D1776FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29457DDA-000A-416E-9903-1D75D1776FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29457DDA-000A-416E-9903-1D75D1776FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5687D278-5C00-43E1-A75D-D81DBAEFBDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5687D278-5C00-43E1-A75D-D81DBAEFBDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5687D278-5C00-43E1-A75D-D81DBAEFBDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5687D278-5C00-43E1-A75D-D81DBAEFBDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF4441C-AE24-4745-A91E-BEA3FA3723CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF4441C-AE24-4745-A91E-BEA3FA3723CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF4441C-AE24-4745-A91E-BEA3FA3723CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF4441C-AE24-4745-A91E-BEA3FA3723CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A454B4B-D622-4D1D-B689-344366F13192}
+	EndGlobalSection
+EndGlobal
